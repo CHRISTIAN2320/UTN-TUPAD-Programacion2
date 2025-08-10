@@ -4,7 +4,7 @@
 
 ## ✨ Estudiante  
 - **Nombre:** Olivero, Christian Emmanuel  
-- **Comisión:** M2025-4 
+- **Comisión:** M2025-10 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 2**.  
