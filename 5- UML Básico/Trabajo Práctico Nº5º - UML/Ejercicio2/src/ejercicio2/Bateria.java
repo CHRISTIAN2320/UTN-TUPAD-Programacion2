@@ -1,0 +1,32 @@
+
+package ejercicio2;
+
+
+public class Bateria {
+    private String modelo;
+    private String capacidad;
+    //Constructor
+    public Bateria(String modelo, String capacidad) {
+        this.modelo = modelo;
+        this.capacidad = capacidad;
+    }
+    public String getModelo() {
+        return modelo;
+    }
+    public String getCapacidad() {
+        return capacidad;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
